@@ -1,0 +1,30 @@
+﻿electricity_unit,electricity_value,country abbreviation,type,carbon_g,carbon_lb,carbon_kg,carbon_mt,country,trees required,trees required in units
+kwh,1,at,electricity,83,0.18,0.08,0,Austria,0.004,1
+kwh,1,be,electricity,192,0.42,0.19,0,Belgium,0.009,1
+kwh,1,bg,electricity,352,0.78,0.35,0,Bulgaria,0.016,1
+kwh,1,hr,electricity,164,0.36,0.16,0,Croatia,0.007,1
+kwh,1,cy,electricity,653,1.44,0.65,0,Cyprus,0.03,1
+kwh,1,cz,electricity,386,0.85,0.39,0,Czech Republic,0.018,1
+kwh,1,dk,electricity,116,0.26,0.12,0,Denmark,0.005,1
+kwh,1,ee,electricity,669,1.47,0.67,0,Estonia,0.03,1
+kwh,1,fi,electricity,67,0.15,0.07,0,Finland,0.003,1
+kwh,1,fr,electricity,55,0.12,0.06,0,France,0.003,1
+kwh,1,de,electricity,301,0.66,0.3,0,Germany,0.014,1
+kwh,1,ie,electricity,293,0.65,0.29,0,Ireland,0.013,1
+kwh,1,lv,electricity,92,0.2,0.09,0,Latvia,0.004,1
+kwh,1,lt,electricity,146,0.32,0.15,0,Lithuania,0.007,1
+kwh,1,lu,electricity,69,0.15,0.07,0,Luxembourg,0.003,1
+kwh,1,mt,electricity,356,0.78,0.36,0,Malta,0.016,1
+kwh,1,pl,electricity,724,1.6,0.72,0,Poland,0.033,1
+kwh,1,ro,electricity,208,0.46,0.21,0,Romania,0.01,1
+kwh,1,sk,electricity,90,0.2,0.09,0,Slovakia,0.004,1
+kwh,1,gr,electricity,522,1.15,0.52,0,Greece,0.024,1
+kwh,1,pt,electricity,201,0.44,0.2,0,Portugal,0.009,1
+kwh,1,it,electricity,212,0.47,0.21,0,Italy,0.01,1
+kwh,1,nl,electricity,318,0.7,0.32,0,Netherlands,0.015,1
+kwh,1,es,electricity,190,0.42,0.19,0,Spain,0.009,1
+kwh,1,gb,electricity,209,0.46,0.21,0,Great Britain,0.010,1
+kwh,1,se,electricity,13,0.03,0.01,0,Sweden,0.000,0
+kwh,1,si,electricity,219,0.48,0.22,0,Slovenia,0.01,1
+kwh,1,hu,electricity,218,0.48,0.22,0,Hungary,0.01,1
+,,,,,,,,,,

@@ -1,0 +1,2 @@
+electricity_unit,electricity_value,country,type,state,estimated_at,carbon_g,carbon_lb,carbon_kg,carbon_mt
+kwh,1.0,ca,electricity,,2024-03-07T13:41:44.558Z,130,0.29,0.13,0.0
