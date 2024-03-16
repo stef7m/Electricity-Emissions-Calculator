@@ -1,6 +1,0 @@
-electricity_unit,electricity_value,country,type,state,estimated_at,carbon_g,carbon_lb,carbon_kg,carbon_mt
-kwh,1.0,gr,electricity,,2024-02-03T18:51:19.955Z,522,1.15,0.52,0.0
-kwh,2.0,gr,electricity,,2024-02-03T18:51:20.751Z,1044,2.3,1.04,0.0
-kwh,3.0,gr,electricity,,2024-02-03T18:51:21.529Z,1566,3.45,1.57,0.0
-kwh,4.0,gr,electricity,,2024-02-03T18:51:22.345Z,2088,4.6,2.09,0.0
-kwh,5.0,gr,electricity,,2024-02-03T18:51:23.003Z,2610,5.75,2.61,0.0
