@@ -12,6 +12,11 @@ requests - for sending HTTP requests to the API
 
 intertools - for iterating over data structures
 
+Whimsical - for creating the wireframe
+
+Tableau - for building the dashboard
+
+
 ## Objective
 
 To retrieve the data from an open source API and use those to create a simple interface for users to calculate their electricity-related carbon emissions, along with further actionable information on how to reduce their environmental impact.
