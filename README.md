@@ -16,5 +16,5 @@ intertools - for iterating over data structures
 
 To retrieve the data from an open source API and use those to create a simple interface for users to calculate their electricity-related carbon emissions, along with further actionable information on how to reduce their environmental impact.
 
-![Electricity Emissions Wireframe](/Users/stefaniadaskalaki/pCloud Drive/02.Business/Electricity Emissions Calculator/02. Docs/electricity_emissions_wireframe.png)
+![Electricity Emissions Wireframe](https://github.com/stef7m/Electricity-Emissions-Calculator/blob/main/electricity_emissions_wireframe.png)
 
